@@ -32,4 +32,4 @@ build-storybook.log
 !.yarn/plugins
 !.yarn/releases
 !.yarn/sdks
-!.yarn/versions
+!.yarn/versionsdebug-storybook.log
