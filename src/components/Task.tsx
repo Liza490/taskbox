@@ -39,6 +39,7 @@ import type { TaskData } from '../types';
             name="title"
             id={`title-${id}`}
             placeholder="Input title"
+            style={{ backgroundColor: 'red' }}
           />
         </label>
   
